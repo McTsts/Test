@@ -116,7 +116,7 @@ _'Town Miscellaneous' are those town roles that do not fit any other role catego
 
 **Bard**
 
-Basics
+\<ins>Basics\</ins>
 
 Throughout the game, all abilities used on the Bard will be narrated to everyone in story-time.
 
@@ -479,7 +479,7 @@ There is always more than one Hellhound. All the Hellhounds have a secret channe
 Details  
 Hellhounds are the werewolf version of bakers. These werewolves know from each other that they are Hellhounds, and they can use and share this information in their battle against the white werewolf. Sometimes it is, and sometimes it is not, in the interest of the werewolf team to immediately inform the rest of the werewolves that they are Hellhounds.
 
-**Scared Wolf** 
+**Scared Wolf**
 
 Basics  
 The Scared Wolf will be protected from the first night attack to target them.  
@@ -531,7 +531,7 @@ During the first night, the Infected Wolf must choose one player to convert to a
 Details  
 If the Infected Wolf fails to choose a player during the first night, a random player will be selected for them. This ability can only be used once. Infecting a player is an immediate ability. Members of the wolfpack can’t be infected. If a devil, demon, archangel, or saint is picked the power backfires and the infected wolf becomes a demon or saint.
 
-**Lone Wolf** 
+**Lone Wolf**
 
 Basics  
 Each night, the Lone Wolf may attack one player. When the first member of the wolfpack dies, the Lone Wolf joins the wolfpack.  
@@ -564,7 +564,7 @@ The Tanner is not a lycan, and is not part of the wolfpack.
 
 _'Werewolf Investigative' are those werewolf roles that in some way can gather information about other players and/or roles._
 
-**Lone Warlock** 
+**Lone Warlock**
 
 Basics  
 Each night, the Lone Warlock may check one player’s role. When the first member of the wolfpack dies, the Lone Warlock joins the wolfpack.  
@@ -573,7 +573,7 @@ Each night, the Lone Warlock may inspect a player. The Lone Warlock will be told
 
 Inspecting a player is an immediate ability. The Lone Warlock is affected by weak disguises and obstructions. The Lone Warlock is not a lycan, and is not a member of the wolfpack.
 
-**Psychic Wolf** 
+**Psychic Wolf**
 
 Basics
 
@@ -769,7 +769,7 @@ Details 
 When the Despot wins, the Despot ascends and stops playing. The game continues.   
 The votes of all players whose votes contributed to the Despot’s victory will be nullified the next day phase, for both the election and the lynch.
 
-**Psychopath** 
+**Psychopath**
 
 Basics  
 At the start of the game, the Psychopath is given a list of a third of the town’s population, rounded up. If all players on that list are dead, and the Psychopath is still alive, the Psychopath wins.  
@@ -899,9 +899,7 @@ The Claimspace has no special abilities and is only there for claimspace. 
 
 Details
 
-For each Claimspace in the game, an extra role is added to the role list along with Claimspace, however, no player is this role. When the role list is sent, it is not noted which role is not actually in the game. The Claimspace is privately informed which role the extra was. If there are multiple Claimspaces, each Claimspace has their own extra role.  
-  
- 
+For each Claimspace in the game, an extra role is added to the role list along with Claimspace, however, no player is this role. When the role list is sent, it is not noted which role is not actually in the game. The Claimspace is privately informed which role the extra was. If there are multiple Claimspaces, each Claimspace has their own extra role.
 
 **Coroner | Townsfolk Investigative**
 
