@@ -116,7 +116,7 @@ _'Town Miscellaneous' are those town roles that do not fit any other role catego
 
 **Bard**
 
-\<ins>Basics\</ins>
+\<u>Basics\</u>
 
 Throughout the game, all abilities used on the Bard will be narrated to everyone in story-time.
 
