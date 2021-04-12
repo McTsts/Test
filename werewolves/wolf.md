@@ -1,6 +1,5 @@
 **Wolf** | Werewolf Miscellaneous
 
-
 __Basics__  
 The Wolf has no special abilities.  
 __Details__  
