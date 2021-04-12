@@ -1,5 +1,5 @@
 **Citizen** | Townsfolk Miscellaneous  
 __Basics__  
-The Citizen has no special abilities. 
+The Citizen has no special abilities.  
 __Details__  
 All the Citizen vote during the day on whomever they suspect to be an enemy, and hope during the night that they won’t get killed.  
