@@ -4,4 +4,4 @@ The Citizen has no special abilities.
 __Details__  
 All the Citizens vote during the day on whomever they suspect to be an enemy, and hope during the night that they won’t get killed.  
 __Note__
-test
+Test
