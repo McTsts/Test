@@ -2,4 +2,4 @@
 __Basics__  
 The Wolf has no special abilities.  
 __Details__  
-The Wolf is a player who acts like a regular player during the day, but secretly kills players during the night, together with all the other werewolves.  
+The Wolf is a player who acts like a regular player during the day, but secretly kills players during the night, together with all the other werewolves. They go Rawr~
